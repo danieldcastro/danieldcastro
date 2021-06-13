@@ -80,7 +80,7 @@
        src="https://github-readme-stats.vercel.app/api?username=danieldcastro&show_icons=true&theme=radical&locale=pt-br"
     />
        <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"
     />
 </p>
