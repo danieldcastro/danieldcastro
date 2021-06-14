@@ -28,8 +28,8 @@
                                                                                                                                        
 <br><br/>
 
-- 📲 Estagiário em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
-- 👶 Tenho 19 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
+-  :iphone: Estagiário em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
+- :rainbow: Tenho 19 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
 - 🌱 Estudando bastante Flutter Mobile UI Framework.
 - 🤔 Sempre procurando ajuda para crescer em desenvolvimento mobile, back-end e quem sabe web também.
 - ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro. 😂
@@ -82,12 +82,12 @@
 ## Meus dados de desenvolvimento:
 <p align="left">
   <img   
-      align="center"
+      align="left"
       height="165" 
        src="https://github-readme-stats.vercel.app/api?username=danieldcastro&show_icons=true&theme=radical&locale=pt-br"
     />
        <img
-      align="left"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"
     />
 </p>
