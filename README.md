@@ -52,7 +52,7 @@
   <img height="26" src="https://img.shields.io/badge/firebase-f58410?style=for-the-badge&logo=firebase&logoColor=white">
 </a>
 <a href="https://www.android.com/intl/pt-BR_br/" target="_blank">
-  <img height="26" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img height="26" src="https://img.shields.io/badge/Android-2fd882?style=for-the-badge&logo=android&logoColor=white">
 </a>
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank">
   <img height="26" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -75,6 +75,10 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img height="26" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
+<a href="https://developer.android.com/studio" target="_blank">
+  <img height="26" src="https://img.shields.io/badge/android_studio-2fd882?style=for-the-badge&logo=android%20studio&logoColor=white">
+</a>
+
 
 
 	
