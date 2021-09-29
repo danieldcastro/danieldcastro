@@ -33,7 +33,6 @@
 - 🌱 Estudando bastante Flutter Mobile UI Framework.
 - 🤔 Sempre procurando ajuda para crescer em desenvolvimento mobile, back-end e quem sabe web também.
 - ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro. 😂
-- 🖋 Mais uma: Estou escrevendo um livro de terror psicológico chamado Trauma Oculto. 😱 Por Enquanto, disponível no [WattPad](https://www.wattpad.com/story/254980603-trauma-oculto). 
 - 📫 Como entrar em contato comigo: [daniel.castro09@hotmail.com](mailto:daniel.castro09@hotmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/danieldcastro)
 
 ---
