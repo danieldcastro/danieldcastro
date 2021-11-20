@@ -93,14 +93,13 @@
       align="left"
       height="165" 
        src="https://github-readme-stats.vercel.app/api?username=danieldcastro&show_icons=true&theme=radical&locale=pt-br"
-    />
-       <img
+  /> 
+  <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"
-    />
+  />
 </p>
 
-----
-###### Layout inspirado em [joaopaulovieira-dev](https://github.com/joaopaulovieira-dev) 💜
+
 
                                                                                                                                        
