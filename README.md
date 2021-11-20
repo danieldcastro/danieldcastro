@@ -28,11 +28,11 @@
                                                                                                                                        
 <br><br/>
 
--  :iphone: Estagiário em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
-- :rainbow: Tenho 19 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
-- 🌱 Estudando bastante Flutter Mobile UI Framework.
+-  :iphone: Desenvolvedor em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
+- :rainbow: Tenho 20 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
+- 🌱 Estudando bastante Flutter.
 - 🤔 Sempre procurando ajuda para crescer em desenvolvimento mobile, back-end e quem sabe web também.
-- ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro. 😂
+- ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro.
 - 📫 Como entrar em contato comigo: [daniel.castro09@hotmail.com](mailto:daniel.castro09@hotmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/danieldcastro)
 
 ---
