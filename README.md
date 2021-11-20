@@ -100,6 +100,10 @@
   />
 </p>
 
+##
+
+![Snake animation](https://github.com/danieldcastro/danieldcastro/blob/output/github-contribution-grid-snake.svg)
+
 
 
                                                                                                                                        
