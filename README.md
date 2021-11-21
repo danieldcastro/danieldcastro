@@ -88,9 +88,9 @@
 
 ----
 ## Meus dados de desenvolvimento:
-<p align="left">
+<p align="center">
   <img   
-      align="left"
+      align="center"
       height="165" 
        src="https://github-readme-stats.vercel.app/api?username=danieldcastro&show_icons=true&theme=radical&locale=pt-br"
   /> 
@@ -100,9 +100,12 @@
   />
 </p>
 
-<center>
-    [![Status wakatime de danieldcastro](https://github-readme-stats.vercel.app/api/wakatime?username=danieldcastro)]
-</center>
+<p align="center">
+  <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"   
+  />
+</p>	
+
 ##
 
 ![Snake animation](https://github.com/danieldcastro/danieldcastro/blob/output/github-contribution-grid-snake.svg)
