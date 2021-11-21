@@ -78,14 +78,6 @@
   <img height="26" src="https://img.shields.io/badge/android_studio-2fd882?style=for-the-badge&logo=android%20studio&logoColor=white">
 </a>
 
-
-
-	
-
-----
-## Siga-me:
-[![GitHub: danieldcastro](https://img.shields.io/github/followers/danieldcastro?color=white&label=Seguidores&logo=GitHUb&style=for-the-badge)](https://github.com/danieldcastro)
-
 ----
 ## Meus dados de desenvolvimento:
 <p align="center">
