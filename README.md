@@ -5,7 +5,7 @@
   
 <img src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/ilustracao.png" min-width="350px" max-width="350px" width="350px" align="right" alt="/">
   
-### Saluton Mondo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></br>Meu nome é Daniel, mas pode me chamar de Dan.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Saluton, Mondo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></br>Meu nome é Daniel, mas pode me chamar de Dan.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://www.linkedin.com/in/danieldecastromarciano/" target="_blank">
   <img align="left" alt="Linkedin" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/linkedin.png" width="25px" />
