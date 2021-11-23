@@ -11,11 +11,11 @@
   <img align="left" alt="Linkedin" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/linkedin.png" width="25px" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511994763908" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub." target="_blank">
   <img align="left" alt="Whats" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/whats.png" width="25px" />
 </a>  
 
-<a href="https://t.me/danieldcastro" target="_blank">
+<a href="https://t.me/odanielmarciano" target="_blank">
   <img align="left" alt="Telegram" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/telegram.png" width="25px" />
 </a>
                                                                                                                                                                                    <a href="https://www.facebook.com/danieldecastromarciano" target="_blank">
