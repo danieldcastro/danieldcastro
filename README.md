@@ -92,11 +92,11 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"   
   />
-</p>	
+</p>	 -->
 
 ##
 
