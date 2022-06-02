@@ -5,10 +5,10 @@
   
 <img src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/ilustracao.png" min-width="350px" max-width="350px" width="350px" align="right" alt="/">
   
-### Saluton, Mondo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></br>Meu nome é Daniel, mas pode me chamar de Marciano.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Saluton, Mondo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"></br>Meu nome é Daniel, mas pode me chamar de Marciano. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">
 
 <a href="https://www.linkedin.com/in/danieldecastromarciano/" target="_blank">
-  <img align="left" alt="Linkedin" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/linkedin.png" width="25px" />
+  <img align="left" alt="Linkedin" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/linkedin.png" width="25px"/>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub." target="_blank">
