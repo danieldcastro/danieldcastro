@@ -68,9 +68,6 @@
 <a href="https://github.com/" target="_blank">
   <img height="26" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://canva.com/" target="_blank">
-  <img height="26" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-</a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img height="26" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
