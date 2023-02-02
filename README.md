@@ -13,27 +13,19 @@
 
 <a href="https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub." target="_blank">
   <img align="left" alt="Whats" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/whats.png" width="25px" />
-</a>  
-
-<a href="https://t.me/odanielmarciano" target="_blank">
-  <img align="left" alt="Telegram" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/telegram.png" width="25px" />
-</a>
-                                                                                                                                                                                   <a href="https://www.facebook.com/danieldecastromarciano" target="_blank">
-  <img align="left" alt="Facebook" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/facebook.png" width="25px" />
-</a>
-
+</a>                                                                                                                                                                      
 <a href="https://www.instagram.com/d.cmarciano" target="_blank">
   <img align="left" alt="Instagram" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/instagram.png" width="25px" />
 </a>
                                                                                                                                        
 <br><br/>
 
--  :iphone: Desenvolvedor em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
+- :iphone: Desenvolvedor em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
 - :rainbow: Tenho 21 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
 - 🌱 Estudando bastante Flutter.
 - 🤔 Sempre procurando ajuda para crescer em desenvolvimento mobile, web e quem sabe back-end também.
 - ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro.
-- 📫 Como entrar em contato comigo: [daniel.castro09@hotmail.com](mailto:daniel.castro09@hotmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub.) ou [Telegram](https://t.me/danieldcastro)
+- 📫 Como entrar em contato comigo: [odanielmarciano@outlook.com](mailto:odanielmarciano@outlook.com) ou [WhatsApp](https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub.)
 
 ---
 
@@ -76,7 +68,7 @@
 </a>
 
 ----
-## Meus dados de desenvolvimento:
+<!-- ## Meus dados de desenvolvimento:
 <p align="center">
   <img   
       align="center"
@@ -87,7 +79,7 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"
   />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img
@@ -95,7 +87,7 @@
   />
 </p>	 -->
 
-##
+<!-- ## -->
 
 ![Snake animation](https://github.com/danieldcastro/danieldcastro/blob/output/github-contribution-grid-snake.svg)
 
