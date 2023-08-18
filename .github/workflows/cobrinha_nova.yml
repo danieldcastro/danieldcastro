@@ -24,6 +24,7 @@ jobs:
         id: bylickilabs-Snake
         with:
           github_user_name: danieldcastro
+          color_snake: pink    
           outputs: |
                      dist/github-snake-dark.svg?palette=github-dark
 
