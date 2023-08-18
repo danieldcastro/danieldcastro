@@ -68,7 +68,7 @@
 </a>
 
 ----
-<!-- ## Meus dados de desenvolvimento:
+## Meus dados de desenvolvimento:
 <p align="center">
   <img   
       align="center"
@@ -79,15 +79,15 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"
   />
-</p> -->
+</p>
 
 <!-- <p align="center">
   <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"   
   />
-</p>	 -->
+</p> -->
 
-<!-- ## -->
+## 
 
 ![Snake animation](https://github.com/danieldcastro/danieldcastro/blob/output/github-contribution-grid-snake.svg)
 
