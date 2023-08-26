@@ -39,6 +39,12 @@
 <a href="https://pub.dev/packages/get" target="_blank">
   <img height="26" src="https://img.shields.io/badge/Getx-6d12b8?style=for-the-badge">
 </a>
+<a href="https://pub.dev/packages/riverpod" target="_blank">
+  <img height="26" src="https://img.shields.io/badge/Riverpod-41d0fd?style=for-the-badge">
+</a>
+<a href="https://pub.dev/packages/bloc" target="_blank">
+  <img height="26" src="https://img.shields.io/badge/Bloc-00d3b9?style=for-the-badge">
+</a>
 <a href="https://firebase.google.com/?hl=pt" target="_blank">
   <img height="26" src="https://img.shields.io/badge/firebase-f58410?style=for-the-badge&logo=firebase&logoColor=white">
 </a>
@@ -59,6 +65,9 @@
 </a>
 <a href="https://github.com/" target="_blank">
   <img height="26" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://bitbucket.org/" target="_blank">
+  <img height="26" src="https://img.shields.io/badge/Bitbucket-0658d4?style=for-the-badge&logo=bitbucket">
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img height="26" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
