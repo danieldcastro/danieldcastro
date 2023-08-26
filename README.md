@@ -14,7 +14,7 @@
 <a href="https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub." target="_blank">
   <img align="left" alt="Whats" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/whats.png" width="25px" />
 </a>                                                                                                                                                                      
-<a href="https://www.instagram.com/d.cmarciano" target="_blank">
+<a href="https://www.instagram.com/odanielmarciano" target="_blank">
   <img align="left" alt="Instagram" src="https://github.com/danieldcastro/danieldcastro/raw/main/imagens/instagram.png" width="25px" />
 </a>
                                                                                                                                        
