@@ -98,7 +98,7 @@
 
 ## 
 
-![Snake animation](https://github.com/danieldcastro/danieldcastro/blob/output/github-snake-dark.svg)
+<!-- ![Snake animation](https://github.com/danieldcastro/danieldcastro/blob/output/github-snake-dark.svg) -->
 
 
 
