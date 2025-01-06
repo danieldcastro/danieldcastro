@@ -21,7 +21,7 @@
 <br><br/>
 
 - :iphone: Desenvolvedor em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
-- :rainbow: Tenho 22 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
+- :rainbow: Tenho 23 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
 - 🌱 Estudando bastante Flutter.
 - 🤔 Sempre procurando ajuda para crescer em desenvolvimento mobile, web e quem sabe back-end também.
 - ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro.
