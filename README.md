@@ -22,10 +22,9 @@
 
 - :iphone: Desenvolvedor em Jundiaí-SP desde 2019, atuando na área de desenvolvimento mobile.
 - :rainbow: Tenho 23 anos e gosto muito de música 🎹, livros 📚 e tecnologia 💻.
-- 🌱 Estudando bastante Flutter.
-- 🤔 Sempre procurando ajuda para crescer em desenvolvimento mobile, web e quem sabe back-end também.
-- ☕ Curiosidade: Trabalho com tecnologia mas não gosto de café.</br>Bom, pelo menos não puro.
-- 📫 Como entrar em contato comigo: [odanielmarciano@outlook.com](mailto:odanielmarciano@outlook.com) ou [WhatsApp](https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub.)
+- 🌱 Estudando bastante Flutter e outras cositas mais.
+- ☕ Curiosidade: Também sou autor de um livro de terror psicológico chamado [Trauma Oculto](https://www.amazon.com.br/Trauma-Oculto-Daniel-Marciano-ebook/dp/B09RX1BHRR).
+- 📫 Como entrar em contato comigo: [odanielmarciano@gmail.com](mailto:odanielmarciano@gmail.com) ou [WhatsApp](https://api.whatsapp.com/send?phone=5511994763908&text=Tudo%20blz%2C%20Dan?%20Cheguei%20aqui%20pelo%20perfil%20do%20GitHub.)
 
 ---
 
