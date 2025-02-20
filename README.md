@@ -49,7 +49,7 @@
 #### Persistência e Banco de Dados (Mobile)
 
 <a href="https://pub.dev/packages/sqflite" target="_blank"> <img height="26" src="https://img.shields.io/badge/sqflite-4CAF50?style=for-the-badge"> </a>
-<a href="https://pub.dev/packages/hive" target="_blank"> <img height="26" src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge"> </a>
+<a href="https://pub.dev/packages/hive_ce" target="_blank"> <img height="26" src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge"> </a>
 <a href="https://firebase.google.com/products/firestore" target="_blank"> <img height="26" src="https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge"> </a>
 
 #### Plataformas, Serviços e Distribuição Mobile
@@ -65,11 +65,11 @@
 <a href="https://shorebird.dev/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Shorebird-8E44AD?style=for-the-badge"> </a>
 <a href="https://firebase.google.com/products/app-distribution" target="_blank"> <img height="26" src="https://img.shields.io/badge/App_Distribution-607D8B?style=for-the-badge"> </a>
 <a href="https://play.google.com/console/about/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Play_Console-34A853?style=for-the-badge"> </a>
-<a href="https://appstoreconnect.apple.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/App_Store_Connect-007AFF?style=for-the-badge"> </a>
+<a href="https://developer.apple.com/help/app-store-connect/get-started/app-store-connect-homepage/" target="_blank"> <img height="26" src="https://img.shields.io/badge/App_Store_Connect-007AFF?style=for-the-badge"> </a>
 <a href="https://developer.apple.com/testflight/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Test_Flight-0A84FF?style=for-the-badge"> </a>
-<a href="https://scrcpy.dev/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Scrcpy-757575?style=for-the-badge"> </a>
+<a href="https://github.com/Genymobile/scrcpy" target="_blank"> <img height="26" src="https://img.shields.io/badge/Scrcpy-757575?style=for-the-badge"> </a>
 <a href="https://www.android.com/intl/pt-BR_br/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Android-2fd882?style=for-the-badge&logo=android&logoColor=white"> </a>
-<a href="https://www.apple.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"> </a>
+<a href="https://www.apple.com/br/ios" target="_blank"> <img height="26" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"> </a>
 
 ----------
 
@@ -86,10 +86,10 @@
 
 ### Backend e Desenvolvimento de Serviços
 
-<a href="https://github.com/vania-dart" target="_blank"> <img height="26" src="https://img.shields.io/badge/Vania_Dart-673AB7?style=for-the-badge"> </a>
+<a href="https://github.com/vania-dart/framework?tab=readme-ov-file" target="_blank"> <img height="26" src="https://img.shields.io/badge/Vania_Dart-673AB7?style=for-the-badge"> </a>
 <a href="https://golang.org/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img height="26" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> </a>
 
@@ -106,7 +106,7 @@
 <a href="https://github.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
 <a href="https://bitbucket.org/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Bitbucket-0658d4?style=for-the-badge&logo=bitbucket"> </a>
 <a href="https://github.com/features/actions" target="_blank"> <img height="26" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> </a>
-<a href="https://github.com/features/projects" target="_blank"> <img height="26" src="https://img.shields.io/badge/GitHub_Projects-000000?style=for-the-badge"> </a>
+<a href="https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects" target="_blank"> <img height="26" src="https://img.shields.io/badge/GitHub_Projects-000000?style=for-the-badge"> </a>
 <a href="https://azure.microsoft.com/pt-br/services/devops/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"> </a>
 <a href="https://clickup.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/ClickUp-5B9BD5?style=for-the-badge&logo=clickup&logoColor=white"> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img height="26" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> </a>
@@ -122,31 +122,31 @@
 <a href="https://www.postman.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> </a>
 <a href="https://insomnia.rest/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"> </a>
 <a href="https://httptoolkit.tech/" target="_blank"> <img height="26" src="https://img.shields.io/badge/HTTP_Toolkit-FF6600?style=for-the-badge"> </a>
-<a href="https://apidog.dev/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Apidog-FF6600?style=for-the-badge"> </a>
-<a href="https://pub.dev/packages/dart_code_metrics" target="_blank"> <img height="26" src="https://img.shields.io/badge/Dart_Code_Metrics-4CAF50?style=for-the-badge"> </a>
-<a href="https://dart.dev/tools/dart-define" target="_blank"> <img height="26" src="https://img.shields.io/badge/Dart_Define-607D8B?style=for-the-badge"> </a>
+<a href="https://apidog.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Apidog-FF6600?style=for-the-badge"> </a>
+<a href="https://dcm.dev/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Dart_Code_Metrics-4CAF50?style=for-the-badge"> </a>
+<a href="https://dartcode.org/docs/using-dart-define-in-flutter/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Dart_Define-607D8B?style=for-the-badge"> </a>
 
 ----------
 
 ### Arquitetura de Software e Boas Práticas
 
-<a href="https://www.codementor.io/@cleancoders/clean-code-principles-1o8ssjo01" target="_blank"> <img height="26" src="https://img.shields.io/badge/Clean_Code-5D4037?style=for-the-badge"> </a>
-<a href="https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank"> <img height="26" src="https://img.shields.io/badge/Clean_Architecture-3949AB?style=for-the-badge"> </a>
-<a href="https://www.baeldung.com/solid-principles" target="_blank"> <img height="26" src="https://img.shields.io/badge/SOLID-00BCD4?style=for-the-badge"> </a>
+<a href="https://blog.cleancoder.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Clean_Code-5D4037?style=for-the-badge"> </a>
+<a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank"> <img height="26" src="https://img.shields.io/badge/Clean_Architecture-3949AB?style=for-the-badge"> </a>
+<a href="https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design" target="_blank"> <img height="26" src="https://img.shields.io/badge/SOLID-00BCD4?style=for-the-badge"> </a>
 <a href="https://pt.wikipedia.org/wiki/Programação_orientada_a_objetos" target="_blank"> <img height="26" src="https://img.shields.io/badge/POO-FF9800?style=for-the-badge"> </a>
 <a href="https://www.agilealliance.org/glossary/tdd/" target="_blank"> <img height="26" src="https://img.shields.io/badge/TDD-009688?style=for-the-badge"> </a>
-<a href="https://www.scnsoft.com/mvvm" target="_blank"> <img height="26" src="https://img.shields.io/badge/MVVM-795548?style=for-the-badge"> </a>
+<a href="https://learn.microsoft.com/pt-br/windows/uwp/data-binding/data-binding-and-mvvm" target="_blank"> <img height="26" src="https://img.shields.io/badge/MVVM-795548?style=for-the-badge"> </a>
 <a href="https://www.geeksforgeeks.org/mvc-design-pattern/" target="_blank"> <img height="26" src="https://img.shields.io/badge/MVC-607D8B?style=for-the-badge"> </a>
 <a href="https://dddcommunity.org/" target="_blank"> <img height="26" src="https://img.shields.io/badge/DDD-3F51B5?style=for-the-badge"> </a>
 <a href="https://microservices.io/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Microsserviço-9C27B0?style=for-the-badge"> </a>
-<a href="https://pub.dev/packages/either_dart" target="_blank"> <img height="26" src="https://img.shields.io/badge/Either-8E24AA?style=for-the-badge"> </a>
-<a href="https://pub.dev/packages/functional_data" target="_blank"> <img height="26" src="https://img.shields.io/badge/Result-8E24AA?style=for-the-badge"> </a>
+<a href="https://pub.dev/packages/fpdart" target="_blank"> <img height="26" src="https://img.shields.io/badge/Either-8E24AA?style=for-the-badge"> </a>
+<a href="https://pub.dev/packages/result_dart" target="_blank"> <img height="26" src="https://img.shields.io/badge/Result-8E24AA?style=for-the-badge"> </a>
 
 ----------
 
 ### Ferramentas Diversas e Utilitários
 
-<a href="https://github.com/h2non/argon2" target="_blank"> <img height="26" src="https://img.shields.io/badge/Argon2id-FFC107?style=for-the-badge"> </a>
+<a href="https://argon2.online/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Argon2id-FFC107?style=for-the-badge"> </a>
 <a href="https://www.docker.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </a>
 <a href="https://grpc.io/" target="_blank"> <img height="26" src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </a>
@@ -154,7 +154,7 @@
 <a href="https://docs.microsoft.com/pt-br/windows/msix/" target="_blank"> <img height="26" src="https://img.shields.io/badge/MSIX-0078D4?style=for-the-badge"> </a>
 <a href="https://www.beekeeperstudio.io/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Beekeeper_Studio-4CAF50?style=for-the-badge"> </a>
 <a href="https://docs.microsoft.com/pt-br/sql/ssms/" target="_blank"> <img height="26" src="https://img.shields.io/badge/SQL_Server_Management-CC2927?style=for-the-badge"> </a>
-<a href="https://copilot.github.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/GitHub_Copilot-10A37F?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://github.com/features/copilot" target="_blank"> <img height="26" src="https://img.shields.io/badge/GitHub_Copilot-10A37F?style=for-the-badge&logo=github&logoColor=white"> </a>
 <a href="https://openai.com/blog/chatgpt/" target="_blank"> <img height="26" src="https://img.shields.io/badge/ChatGPT-FF9900?style=for-the-badge&logo=openai&logoColor=white"> </a>
 <a href="https://crowdin.com/" target="_blank"> <img height="26" src="https://img.shields.io/badge/Crowdin-FF6600?style=for-the-badge"> </a>
 <a href="https://mariadb.org/" target="_blank"> <img height="26" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> </a>
