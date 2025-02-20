@@ -168,11 +168,11 @@
   <img   
       align="center"
       height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=danieldcastro&show_icons=true&theme=radical&locale=pt-br"
+       src="https://github-readme-stats.vercel.app/api?username=danieldcastro&show_icons=true&theme=radical&locale=pt-br&rank_icon=github&include_all_commits=true"
   /> 
   <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=compact&theme=radical&locale=pt-br"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldcastro&layout=donut&theme=radical&locale=pt-br&hide=javascript"
   />
 </p>
 
